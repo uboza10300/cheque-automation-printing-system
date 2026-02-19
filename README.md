@@ -15,7 +15,6 @@ Python | Tkinter | PIL | OpenPyXL | Win32 API
 ## Screenshots
 <!-- Add 2 images in /docs and link them like below -->
 ![Main UI](docs/screenshot1.png)
-![Cheque Preview](docs/screenshot2.png)
 
 ## Setup (Windows)
 ```bash
