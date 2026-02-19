@@ -20,4 +20,4 @@ Python | Tkinter | PIL | OpenPyXL | Win32 API
 ## Setup (Windows)
 ```bash
 pip install -r requirements.txt
-python Final_Adv_Year_Updated.py
+python Cheq_writer_App.py
